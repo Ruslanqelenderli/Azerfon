@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azerfon shirketi", "Azerfon shirketi\Azerfon shirketi.csproj", "{CE008CBE-7CD8-434C-A855-D1950B3DB402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CE008CBE-7CD8-434C-A855-D1950B3DB402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE008CBE-7CD8-434C-A855-D1950B3DB402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE008CBE-7CD8-434C-A855-D1950B3DB402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE008CBE-7CD8-434C-A855-D1950B3DB402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BDDE30B-2B5E-4016-A9B4-2B757779395B}
+	EndGlobalSection
+EndGlobal

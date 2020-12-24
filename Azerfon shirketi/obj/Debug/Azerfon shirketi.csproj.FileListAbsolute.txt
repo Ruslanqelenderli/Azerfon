@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Azerfon shirketi\Azerfon shirketi\obj\Debug\Azerfon shirketi.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Azerfon shirketi\Azerfon shirketi\obj\Debug\Azerfon shirketi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Azerfon shirketi\Azerfon shirketi\bin\Debug\Azerfon shirketi.exe.config
+C:\Users\User\source\repos\Azerfon shirketi\Azerfon shirketi\bin\Debug\Azerfon shirketi.exe
+C:\Users\User\source\repos\Azerfon shirketi\Azerfon shirketi\bin\Debug\Azerfon shirketi.pdb
+C:\Users\User\source\repos\Azerfon shirketi\Azerfon shirketi\obj\Debug\Azerfon shirketi.exe
+C:\Users\User\source\repos\Azerfon shirketi\Azerfon shirketi\obj\Debug\Azerfon shirketi.pdb
